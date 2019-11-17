@@ -650,7 +650,7 @@
     color: #cfcfca; }
   
   .bootstrap-datetimepicker-widget table td.active > div, .bootstrap-datetimepicker-widget table td.active:hover > div {
-    background-color: #68B3C8;
+    background-color: #be3e3e;
     color: #FFFFFF; }
   
   .bootstrap-datetimepicker-widget table td.active.today:before > div {
@@ -675,7 +675,7 @@
     background: #E3E3E3; }
   
   .bootstrap-datetimepicker-widget table td span.active {
-    background-color: #68B3C8;
+    background-color: #be3e3e;
     color: #FFFFFF; }
   
   .bootstrap-datetimepicker-widget table td span.old {
@@ -929,16 +929,16 @@
     fieldset[disabled] .btn-info.focus,
     fieldset[disabled] .btn-info:active,
     fieldset[disabled] .btn-info.active {
-      background-color: #2ba9cd;
-      border-color: #2ba9cd; }
+      background-color: #910000;
+      border-color: #910000; }
     .btn-info.btn-link {
-      color: #51bcda; }
+      color: #910000; }
       .btn-info.btn-link:hover, .btn-info.btn-link:focus, .btn-info.btn-link:active, .btn-info.btn-link.active, .btn-info.btn-link:focus:active,
       .open > .btn-info.btn-link.dropdown-toggle {
         background-color: transparent !important;
-        color: #2ba9cd !important; }
+        color: #910000 !important; }
       .btn-info.btn-link .caret {
-        border-top-color: #51bcda; }
+        border-top-color: #910000; }
     .btn-info .caret {
       border-top-color: #FFFFFF; }
   
@@ -2895,7 +2895,7 @@
       .nav-tabs .dropdown-menu .dropdown-item:hover,
       .nav-tabs .dropdown-menu .dropdown-item.active {
         color: #FFFFFF;
-        background-color: #68B3C8; }
+        background-color: #be3e3e; }
       .nav-tabs .dropdown-menu :before {
         border-bottom: 11px solid #F1EAE0;
         border-left: 11px solid rgba(0, 0, 0, 0);
@@ -3875,7 +3875,7 @@
     color: #51cbce; }
   
   .icon-info {
-    color: #51bcda; }
+    color: #910000; }
   
   .icon-success {
     color: #6bd098; }
