@@ -5,6 +5,7 @@ import React from "react";
 // core components
 import IndexNavbar from "components/Navbars/IndexNavbar.js";
 import IndexHeader from "components/Headers/IndexHeader.js";
+import IndexFooter from "components/Footers/IndexFooter.js";
 
 // index sections
 import SectionGetRegistered from "views/SectionGetRegistered.js";
@@ -29,6 +30,7 @@ function Index() {
         <SectionGetRegistered />
         
       </div>
+      <IndexFooter />
     </>
   );
 }
