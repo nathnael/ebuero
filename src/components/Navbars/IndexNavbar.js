@@ -66,7 +66,7 @@ function IndexNavbar() {
         <Row>
             <Col md="12">
               <Navbar className="bg-transparent" expand="lg">
-                <NavbarBrand href="#pablo" onClick={e => e.preventDefault()}>
+                <NavbarBrand href="#" onClick={e => e.preventDefault()}>
                   
                 </NavbarBrand>
                 <button
@@ -86,7 +86,7 @@ function IndexNavbar() {
                 <UncontrolledCollapse navbar toggler="#navbar-menu">
                   <Nav className="mr-auto" navbar>
                     <NavItem>
-                      <NavLink href="#pablo" onClick={e => e.preventDefault()}>
+                      <NavLink href="#" onClick={e => e.preventDefault()}>
                         HOME
                       </NavLink>
                     </NavItem>
@@ -97,7 +97,7 @@ function IndexNavbar() {
                         caret
                         color="default"
                         data-toggle="dropdown"
-                        href="#pablo"
+                        href="#"
                         id="dropdownMenuButton"
                         nav
                         onClick={e => e.preventDefault()}
@@ -110,37 +110,37 @@ function IndexNavbar() {
                         className="dropdown-info"
                       >
                         <DropdownItem
-                          href="#pablo"
+                          href="#"
                           onClick={e => e.preventDefault()}
                         >
                           Office Services
                         </DropdownItem>
                         <DropdownItem
-                          href="#pablo"
+                          href="#"
                           onClick={e => e.preventDefault()}
                         >
                           Telephone Services
                         </DropdownItem>
                         <DropdownItem
-                          href="#pablo"
+                          href="#"
                           onClick={e => e.preventDefault()}
                         >
                           Business Center
                         </DropdownItem>
                         <DropdownItem
-                          href="#pablo"
+                          href="#"
                           onClick={e => e.preventDefault()}
                         >
                           Business Address
                         </DropdownItem> 
                         <DropdownItem
-                          href="#pablo"
+                          href="#"
                           onClick={e => e.preventDefault()}
                         >
                           Rent Office
                         </DropdownItem>   
                         <DropdownItem
-                          href="#pablo"
+                          href="#"
                           onClick={e => e.preventDefault()}
                         >
                           Conference/Seminar Rooms
@@ -148,17 +148,22 @@ function IndexNavbar() {
                       </DropdownMenu>
                     </UncontrolledDropdown>
                     <NavItem>
-                      <NavLink href="#pablo" onClick={e => e.preventDefault()}>
-                        PORTFOLIO
+                      <NavLink href="#" onClick={e => e.preventDefault()}>
+                        Applications
                       </NavLink>
                     </NavItem>
                     <NavItem>
-                      <NavLink href="#pablo" onClick={e => e.preventDefault()}>
-                        FAQs
+                      <NavLink href="#" onClick={e => e.preventDefault()}>
+                        Book
                       </NavLink>
                     </NavItem>
                     <NavItem>
-                      <NavLink href="#pablo" onClick={e => e.preventDefault()}>
+                      <NavLink href="#" onClick={e => e.preventDefault()}>
+                        Mobile App
+                      </NavLink>
+                    </NavItem>
+                    <NavItem>
+                      <NavLink href="#" onClick={e => e.preventDefault()}>
                         ABOUT US
                       </NavLink>
                     </NavItem>
@@ -169,7 +174,7 @@ function IndexNavbar() {
                         caret
                         color="default"
                         data-toggle="dropdown"
-                        href="#pablo"
+                        href="#"
                         id="dropdownMenuButton"
                         nav
                         onClick={e => e.preventDefault()}
@@ -182,26 +187,26 @@ function IndexNavbar() {
                         className="dropdown-info"
                       >
                         <DropdownItem
-                          href="#pablo"
+                          href="#"
                           onClick={e => e.preventDefault()}
                         >
                           Send us a message!
                         </DropdownItem>
                         <DropdownItem divider />
                         <DropdownItem
-                          href="#pablo"
+                          href="#"
                           onClick={e => e.preventDefault()}
                         >
                           Phone: 0800 5040 4442 28
                         </DropdownItem>
                         <DropdownItem
-                          href="#pablo"
+                          href="#"
                           onClick={e => e.preventDefault()}
                         >
                           Email: info@ebuero.ag
                         </DropdownItem>
                         <DropdownItem
-                          href="#pablo"
+                          href="#"
                           onClick={e => e.preventDefault()}
                         >
                           Ebuero Blog
@@ -212,7 +217,7 @@ function IndexNavbar() {
                       <Button
                         className="btn-round"
                         color="danger"
-                        href="#pablo"
+                        href="#"
                         target="_blank"
                       >
                         Login

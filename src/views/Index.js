@@ -8,7 +8,7 @@ import IndexHeader from "components/Headers/IndexHeader.js";
 
 // index sections
 import SectionGetRegistered from "views/SectionGetRegistered.js";
-
+import SectionServices from "views/SectionServices.js";
 
 function Index() {
   document.documentElement.classList.remove("nav-open");
@@ -23,7 +23,9 @@ function Index() {
       <IndexNavbar />
       <IndexHeader />
       <div className="main main-raised">
+        <SectionServices />
         <SectionGetRegistered />
+        
       </div>
     </>
   );
