@@ -40,7 +40,7 @@ function SectionServices() {
                     Sample test goes here. Sample test goes here. Sample test goes here.
                     Sample test goes here. Sample test goes here. 
                 </p>
-                <Button className="btn-link" color="info" href="#pablo">
+                <Button className="btn-link" color="info" href="#">
                     See more
                 </Button>
                 </div>
@@ -57,7 +57,7 @@ function SectionServices() {
                 Sample test goes here. Sample test goes here. Sample test goes here.
                     Sample test goes here. 
                 </p>
-                <Button className="btn-link" color="info" href="#pablo">
+                <Button className="btn-link" color="info" href="#">
                     See more
                 </Button>
                 </div>
@@ -74,7 +74,7 @@ function SectionServices() {
                     Sample test goes here. Sample test goes here. Sample test goes here.
                     Sample test goes here. Sample test goes here. Sample test goes here. 
                 </p>
-                <Button className="btn-link" color="info" href="#pablo">
+                <Button className="btn-link" color="info" href="#">
                     See more
                 </Button>
                 </div>
@@ -91,7 +91,7 @@ function SectionServices() {
                 Sample test goes here. Sample test goes here. Sample test goes here. 
                 Sample test goes here. Sample test goes here. Sample test goes here. 
                 </p>
-                <Button className="btn-link" color="info" href="#pablo">
+                <Button className="btn-link" color="info" href="#">
                     See more
                 </Button>
                 </div>

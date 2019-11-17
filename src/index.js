@@ -7,6 +7,7 @@ import * as serviceWorker from './serviceWorker';
 import "./assets/css/bootstrap.min.css";
 import "./assets/css/ebuero.css";
 import "./assets/sample/sample.css";
+import "./assets/sample/font-awesome.css";
 // pages
 import Index from "views/Index.js";
 
