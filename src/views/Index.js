@@ -8,6 +8,7 @@ import SectionGetRegistered from "views/SectionGetRegistered.js";
 import SectionServices from "views/SectionServices.js";
 import SectionAboutus from "views/SectionAboutus.js";
 import SectionTestimonial from "views/SectionTestimonial.js";
+import SectionNews from "views/SectionNews.js";
 
 function Index() {
   document.documentElement.classList.remove("nav-open");
@@ -26,6 +27,7 @@ function Index() {
         <SectionAboutus />
         <SectionGetRegistered />
         <SectionTestimonial />
+        <SectionNews />
       </div>
       <IndexFooter />
     </>

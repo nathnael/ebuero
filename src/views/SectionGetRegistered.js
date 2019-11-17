@@ -64,7 +64,7 @@ function SectionGetRegistered() {
                 />
                 <Row>
                   <Col className="ml-auto mr-auto" md="4">
-                    <Button className="btn-fill" color="danger" size="lg">
+                    <Button className="btn-fill mg-lt-55" color="danger" size="lg">
                       Send Message
                     </Button>
                   </Col>
