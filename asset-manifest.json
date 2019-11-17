@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nathnael/ebuero/static/css/main.58280129.chunk.css",
+    "main.js": "/nathnael/ebuero/static/js/main.131ceb48.chunk.js",
+    "main.js.map": "/nathnael/ebuero/static/js/main.131ceb48.chunk.js.map",
+    "runtime-main.js": "/nathnael/ebuero/static/js/runtime-main.30127cc4.js",
+    "runtime-main.js.map": "/nathnael/ebuero/static/js/runtime-main.30127cc4.js.map",
+    "static/js/2.e9ce6c87.chunk.js": "/nathnael/ebuero/static/js/2.e9ce6c87.chunk.js",
+    "static/js/2.e9ce6c87.chunk.js.map": "/nathnael/ebuero/static/js/2.e9ce6c87.chunk.js.map",
+    "index.html": "/nathnael/ebuero/index.html",
+    "precache-manifest.fee7cf5007473e999430337cc7b67c42.js": "/nathnael/ebuero/precache-manifest.fee7cf5007473e999430337cc7b67c42.js",
+    "service-worker.js": "/nathnael/ebuero/service-worker.js",
+    "static/css/main.58280129.chunk.css.map": "/nathnael/ebuero/static/css/main.58280129.chunk.css.map",
+    "static/media/clouds.png": "/nathnael/ebuero/static/media/clouds.61c4e000.png",
+    "static/media/font-awesome.css": "/nathnael/ebuero/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/fog-low.png": "/nathnael/ebuero/static/media/fog-low.7812184c.png",
+    "static/media/jumbotron.jpg": "/nathnael/ebuero/static/media/jumbotron.b1d9ec07.jpg",
+    "static/media/ebuero.css": "/nathnael/ebuero/static/media/nucleo-icons.f32ed5ad.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30127cc4.js",
+    "static/js/2.e9ce6c87.chunk.js",
+    "static/css/main.58280129.chunk.css",
+    "static/js/main.131ceb48.chunk.js"
+  ]
+}
