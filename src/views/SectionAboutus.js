@@ -31,7 +31,7 @@ function SectionAboutus() {
             <Col md="4">
                 <Card className="card-profile card-plain">
                     <div className="card-avatar">
-                    <a href="#pablo" onClick={e => e.preventDefault()}>
+                    <a href="#" onClick={e => e.preventDefault()}>
                         <img
                         alt="..."
                         src={require("assets/img/default-avatar.png")}
@@ -39,7 +39,7 @@ function SectionAboutus() {
                     </a>
                     </div>
                     <CardBody>
-                    <a href="#pablo" onClick={e => e.preventDefault()}>
+                    <a href="#" onClick={e => e.preventDefault()}>
                         <div className="author">
                         <CardTitle tag="h4">John Doe</CardTitle>
                         <h6 className="card-category">Product Manager</h6>
@@ -56,26 +56,26 @@ function SectionAboutus() {
                     <Button
                         className="icon icon-info"
                         color="link"
-                        href="#pablo"
+                        href="#"
                         onClick={e => e.preventDefault()}
                     >
-                        <i className="fa fa-twitter" />
+                        <i className="fab fa-twitter" />
                     </Button>
                     <Button
-                        className="btn-just-icon btn-neutral ml-1"
+                        className="icon icon-info"
                         color="link"
-                        href="#pablo"
+                        href="#"
                         onClick={e => e.preventDefault()}
                     >
-                        <i className="fa fa-google-plus" />
+                        <i className="fab fa-google-plus" />
                     </Button>
                     <Button
-                        className="btn-just-icon btn-neutral ml-1"
+                        className="icon icon-info"
                         color="link"
-                        href="#pablo"
+                        href="#"
                         onClick={e => e.preventDefault()}
                     >
-                        <i className="fa fa-linkedin" />
+                        <i className="fab fa-linkedin" />
                     </Button>
                     </CardFooter>
                 </Card>
@@ -83,7 +83,7 @@ function SectionAboutus() {
             <Col md="4">
                 <Card className="card-profile card-plain">
                     <div className="card-avatar">
-                    <a href="#pablo" onClick={e => e.preventDefault()}>
+                    <a href="#" onClick={e => e.preventDefault()}>
                         <img
                         alt="..."
                         src={require("assets/img/default-avatar.png")}
@@ -91,7 +91,7 @@ function SectionAboutus() {
                     </a>
                     </div>
                     <CardBody>
-                    <a href="#pablo" onClick={e => e.preventDefault()}>
+                    <a href="#" onClick={e => e.preventDefault()}>
                         <div className="author">
                         <CardTitle tag="h4">Janit Doe</CardTitle>
                         <h6 className="card-category">Designer</h6>
@@ -106,28 +106,28 @@ function SectionAboutus() {
                     </CardBody>
                     <CardFooter className="text-center">
                         <Button
-                            className="btn-just-icon btn-neutral"
+                            className="icon icon-info"
                             color="link"
-                            href="#pablo"
+                            href="#"
                             onClick={e => e.preventDefault()}
                         >
-                            <i className="fa fa-twitter" />
+                            <i className="fab fa-twitter" />
                         </Button>
                         <Button
-                            className="btn-just-icon btn-neutral ml-1"
+                            className="icon icon-info"
                             color="link"
-                            href="#pablo"
+                            href="#"
                             onClick={e => e.preventDefault()}
                         >
-                            <i className="fa fa-google-plus" />
+                            <i className="fab fa-google-plus" />
                         </Button>
                         <Button
-                            className="btn-just-icon btn-neutral ml-1"
+                            className="icon icon-info"
                             color="link"
-                            href="#pablo"
+                            href="#"
                             onClick={e => e.preventDefault()}
                         >
-                            <i className="fa fa-linkedin" />
+                            <i className="fab fa-linkedin" />
                         </Button>
                     </CardFooter>
                 </Card>
@@ -135,7 +135,7 @@ function SectionAboutus() {
             <Col md="4">
                 <Card className="card-profile card-plain">
                     <div className="card-avatar">
-                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                        <a href="#" onClick={e => e.preventDefault()}>
                             <img
                             alt="..."
                             src={require("assets/img/default-avatar.png")}
@@ -143,7 +143,7 @@ function SectionAboutus() {
                         </a>
                     </div>
                     <CardBody>
-                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                        <a href="#" onClick={e => e.preventDefault()}>
                             <div className="author">
                             <CardTitle tag="h4">Robert Deniro</CardTitle>
                             <h6 className="card-category">Developer</h6>
@@ -158,28 +158,28 @@ function SectionAboutus() {
                     </CardBody>
                     <CardFooter className="text-center">
                         <Button
-                            className="btn-just-icon btn-neutral"
+                            className="icon icon-info"
                             color="link"
-                            href="#pablo"
+                            href="#"
                             onClick={e => e.preventDefault()}
                         >
-                            <i className="fa fa-twitter" />
+                            <i className="fab fa-twitter" />
                         </Button>
                         <Button
-                            className="btn-just-icon btn-neutral ml-1"
+                            className="icon icon-info"
                             color="link"
-                            href="#pablo"
+                            href="#"
                             onClick={e => e.preventDefault()}
                         >
-                            <i className="fa fa-google-plus" />
+                            <i className="fab fa-google-plus" />
                         </Button>
                         <Button
-                            className="btn-just-icon btn-neutral ml-1"
+                            className="icon icon-info"
                             color="link"
-                            href="#pablo"
+                            href="#"
                             onClick={e => e.preventDefault()}
                         >
-                            <i className="fa fa-linkedin" />
+                            <i className="fab fa-linkedin" />
                         </Button>
                     </CardFooter>
                 </Card>
