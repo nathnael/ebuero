@@ -1,3 +1,13 @@
+.section {
+  padding: 30px 0;
+  position: relative;
+  background-color: #FFFFFF; 
+}
+
+.mr-bt-30 {
+  margin-bottom: 30px !important;
+}
+
 .get-registered {
   margin: 0px;
   text-align: right; 
