@@ -32,7 +32,7 @@ function SectionServices() {
             <Col md="3">
             <div className="info">
                 <div className="icon icon-info">
-                <i className="nc-icon nc-album-2" />
+                <i className="nc-icon nc-bank" />
                 </div>
                 <div className="description">
                 <h4 className="info-title">Office/Telephone Services</h4>
@@ -49,7 +49,7 @@ function SectionServices() {
             <Col md="3">
             <div className="info">
                 <div className="icon icon-info">
-                <i className="nc-icon nc-bulb-63" />
+                <i className="nc-icon nc-map-big" />
                 </div>
                 <div className="description">
                 <h4 className="info-title">Business Center and Address</h4>
@@ -66,7 +66,7 @@ function SectionServices() {
             <Col md="3">
             <div className="info">
                 <div className="icon icon-info">
-                <i className="nc-icon nc-chart-bar-32" />
+                <i className="nc-icon nc-badge" />
                 </div>
                 <div className="description">
                 <h4 className="info-title">Rent Comfortable Offices and Rooms</h4>
@@ -83,7 +83,7 @@ function SectionServices() {
             <Col md="3">
             <div className="info">
                 <div className="icon icon-info">
-                <i className="nc-icon nc-sun-fog-29" />
+                <i className="nc-icon nc-briefcase-24" />
                 </div>
                 <div className="description">
                 <h4 className="info-title">Conference and Seminar Offices</h4>

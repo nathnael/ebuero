@@ -26,7 +26,7 @@ import {
 function SectionGetRegistered() {  
   return (
     <>
-      <div className="section landing-section">
+      <div className="section">
         <Container>
             <Row>
             <Col className="ml-auto mr-auto" md="10">

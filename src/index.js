@@ -5,7 +5,7 @@ import * as serviceWorker from './serviceWorker';
 
 // styles
 import "./assets/css/bootstrap.min.css";
-import "./assets/scss/ebuero.scss";
+import "./assets/css/ebuero.css";
 import "./assets/sample/sample.css";
 // pages
 import Index from "views/Index.js";
